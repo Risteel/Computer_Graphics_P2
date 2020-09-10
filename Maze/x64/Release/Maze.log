@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of qrc_maze.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\qrc_maze.cpp, .\GeneratedFiles\qrc_maze.cpp.
+  OpenGLWidget.cpp
+x64\Release\qrc_maze.obj : warning LNK4042: object specified more than once; extras ignored
+  Maze.vcxproj -> C:\Users\chsu\source\repos\Maze\x64\Release\Maze.exe
